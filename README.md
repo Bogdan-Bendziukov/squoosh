@@ -1,0 +1,2 @@
+# squoosh
+Created with CodeSandbox
